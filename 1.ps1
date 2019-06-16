@@ -1,4 +1,4 @@
-﻿function Read-MessageBoxDialog
+function Read-MessageBoxDialog
 
 {
 
